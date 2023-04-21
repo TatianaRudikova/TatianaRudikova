@@ -11,6 +11,8 @@
 1. [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
 2. [Программирование на Java: переменные, операторы, работа с отладчиком. Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
 3. [Программирование на Java: переменные, операторы, работа с отладчиком. Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
+4. [Testability, авто-тесты, введение в ООП: объекты и методы. Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
+5. [Testability, авто-тесты, введение в ООП: объекты и методы. Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
 
 
 
