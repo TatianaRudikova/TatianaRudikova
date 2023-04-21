@@ -7,10 +7,15 @@
 ## Портфолио
 ## Выполненные задания по программе обучения
 
-### Модуль: Java для тестировщиков ###
-1. [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
-2. [Программирование на Java: переменные, операторы, работа с отладчиком. Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
-3. [Программирование на Java: переменные, операторы, работа с отладчиком. Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
+# Модуль: Java для тестировщиков
+
+## Блок 1. Введение в Java
+
+1.1 [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
+1.2 Программирование на Java: переменные, операторы, работа с отладчиком.
+- [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
+- [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
+
 4. [Testability, авто-тесты, введение в ООП: объекты и методы. Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
 5. [Testability, авто-тесты, введение в ООП: объекты и методы. Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
 
