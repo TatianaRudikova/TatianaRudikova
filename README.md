@@ -100,7 +100,7 @@
  <details>
   <summary>2.1. Тестирование веб-интерфейсов, Selenium и Selenide.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-selenide)
+[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-web)
 </details>
  
  
