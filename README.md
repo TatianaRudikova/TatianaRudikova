@@ -69,12 +69,17 @@
 <details>
   <summary>3.1  Объектно-ориентированное программирование и проектирование</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/OOP1)
+[Задача №1](https://github.com/TatianaRudikova/OOP1/tree/master)
 </details>
  <details>
   <summary>3.2  Объектно-ориентированное программирование: ключевые принципы</summary>
     
   [Задача №1](https://github.com/TatianaRudikova/oopPrinciples)
+</details>
+ <details>
+  <summary>3.3. Объекты с внутренним состоянием, управление состоянием при тестировании</summary>
+    
+  [Задача №1](https://github.com/TatianaRudikova/OOP1/tree/flexible)
 </details>
 
  
