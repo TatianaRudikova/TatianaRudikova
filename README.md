@@ -4,15 +4,12 @@
 <br>Я работаю специалистом по тестированию.
 <br>В настоящее время повышаю свою квалификацию: прохожу [курс обучения](https://netology.ru/programs/qa-middle) в Нетологии
 
-## Портфолио
-## Выполненные задания по программе обучения
+# Портфолио
+## Задания по программе обучения
 
-<details>
-<summary>
- Модуль: Java для тестировщиков
-</summary>
+# Модуль: Java для тестировщиков
 
-## Блок 1. Введение в Java
+### Блок 1. Введение в Java
 
 <details>
  <summary>1.1 Введение в Java: JDK, JRE, JVM, IntelliJ IDEA</summary>
@@ -28,7 +25,7 @@
 
 </details>
 
-## Блок 2. Основы Java, Автотесты и CI
+### Блок 2. Основы Java, Автотесты и CI
 
 <details>
   <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений</summary>
@@ -64,7 +61,7 @@
  [Задача №1](https://github.com/TatianaRudikova/CICD)
 </details>
  
-## Блок 3. ООП
+### Блок 3. ООП
 
 <details>
   <summary>3.1  Объектно-ориентированное программирование и проектирование</summary>
@@ -82,16 +79,10 @@
   [Задача №1](https://github.com/TatianaRudikova/OOP1/tree/flexible)
 </details>
 
- 
- 
- </details>
 
-<details>
-<summary>
- Модуль: Автоматизация тестирования
-</summary>
+# Модуль: Автоматизация тестирования
 
-## Блок 1. Основы автоматизации, платформа JUnit
+### Блок 1. Основы автоматизации, платформа JUnit
  
  <details>
   <summary>1.1. Основы автоматизации, Unit-тесты</summary>
@@ -106,7 +97,7 @@
   [Задача №3](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi-Postman)
 </details>
  
- ## Блок 2. Тестирование веб-интерфейсов
+ ### Блок 2. Тестирование веб-интерфейсов
  
  <details>
   <summary>2.1. Тестирование веб-интерфейсов, Selenium и Selenide</summary>
@@ -131,7 +122,7 @@
   [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-pageObject)
 </details>
  
- </details>
+
  
 <!--
 **TatianaRudikova/TatianaRudikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
