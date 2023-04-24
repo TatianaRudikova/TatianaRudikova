@@ -120,6 +120,7 @@
   
   [Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-2)
 </details>
+ <details>
  <summary>2.4. BDD</summary>
   
   [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-pageObject)
