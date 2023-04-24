@@ -11,14 +11,51 @@
 
 ## Блок 1. Введение в Java
 
-1.1 [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
-1.2 Программирование на Java: переменные, операторы, работа с отладчиком.
-- [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
-- [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
+<details>
+ <summary>1.1 Введение в Java: JDK, JRE, JVM, IntelliJ IDEA</summary>
 
-4. [Testability, авто-тесты, введение в ООП: объекты и методы. Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
-5. [Testability, авто-тесты, введение в ООП: объекты и методы. Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
+  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
+</details>
+<details>
+  <summary>1.2 Программирование на Java: переменные, операторы, работа с отладчиком.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
+<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
 
+</details>
+
+## Блок 2. Основы Java, Автотесты и CI
+
+<details>
+  <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
+<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
+</details>
+<details>
+  <summary>2.2  Testability, автотесты, введение в ООП: объекты и методы.</summary>
+    
+  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods1)
+  <br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods2)
+  <br>[Задача №3](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods3)
+</details>
+<details>
+<summary>2.3  Система сборки Maven, управление зависимостями, автотесты на JUnit5.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_3_maven-junit1/tree/master)
+</details>
+<details>
+<summary>2.4  Циклы, параметризованные тесты и аннотации.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params1)
+<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params2)
+</details>
+<details>
+<summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
+<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
+</details>
 
 
 
