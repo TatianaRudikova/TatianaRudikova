@@ -76,7 +76,20 @@
  
  </details>
 
+<details>
+<summary>
+ Модуль: Автоматизация тестирования
+</summary>
 
+## Блок 1. Основы автоматизации, платформа JUnit
+ <details>
+  <summary>1.1. Основы автоматизации, Unit-тесты.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-basics)
+</details>
+ 
+ </details>
+ 
 <!--
 **TatianaRudikova/TatianaRudikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
