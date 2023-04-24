@@ -102,6 +102,11 @@
     
 [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-web)
 </details>
+ <details>
+  <summary>2.2. Selenide.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-selenide)
+</details>
  
  
  </details>
