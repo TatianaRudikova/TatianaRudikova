@@ -40,7 +40,7 @@
 <details>
   <summary>2.2  Testability, автотесты, введение в ООП: объекты и методы</summary>
     
- [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods1)
+ [Задача №1](https://github.com/TatianaRudikova/java_testability)
   
  [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods2)
   
