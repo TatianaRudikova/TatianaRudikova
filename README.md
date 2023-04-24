@@ -49,7 +49,7 @@
 <details>
 <summary>2.3  Система сборки Maven, управление зависимостями, автотесты на JUnit5</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_3_maven-junit1/tree/master)
+[Задача №1](https://github.com/TatianaRudikova/maven)
 </details>
 <details>
 <summary>2.4  Циклы, параметризованные тесты и аннотации</summary>
