@@ -87,6 +87,11 @@
     
 [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-basics)
 </details>
+ <details>
+  <summary>1.2. Тестирование API, Continuous Integration.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
+</details>
  
  </details>
  
