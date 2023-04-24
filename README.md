@@ -90,7 +90,13 @@
  <details>
   <summary>1.2. Тестирование API, Continuous Integration.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
+[Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
+  <br>[Задача №3](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi-Postman)
+</details>
+ <details>
+  <summary>1.2. .</summary>
+    
+[Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
 </details>
  
  </details>
