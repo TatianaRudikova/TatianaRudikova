@@ -32,8 +32,8 @@
 <details>
   <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
-<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
+[Задача №1](https://github.com/TatianaRudikova/java_primitives_1)
+<br>[Задача №2](https://github.com/TatianaRudikova/java_primitives_2)
 </details>
 <details>
   <summary>2.2  Testability, автотесты, введение в ООП: объекты и методы.</summary>
