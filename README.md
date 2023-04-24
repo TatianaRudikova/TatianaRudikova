@@ -7,7 +7,10 @@
 ## Портфолио
 ## Выполненные задания по программе обучения
 
-# Модуль: Java для тестировщиков
+<details>
+<summary>
+ Модуль: Java для тестировщиков
+</summary>
 
 ## Блок 1. Введение в Java
 
@@ -54,6 +57,17 @@
 <summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs.</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_5_ci1)
+</details>
+ 
+</details>
+
+## Блок 3. ООП
+
+<details>
+  <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data1)
+<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_1_data2)
 </details>
 
 
