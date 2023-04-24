@@ -115,10 +115,10 @@
 </details>
  <details>
   <summary>2.3. Patterns.</summary>
-    
-[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-1)
   
-[Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-2)
+  [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-1)
+  
+  [Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-2)
 </details>
  
  
