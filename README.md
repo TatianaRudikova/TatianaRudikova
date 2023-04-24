@@ -56,7 +56,7 @@
     
  [Задача №1](https://github.com/TatianaRudikova/cycles)
 
- [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params2)
+ [Задача №2](https://github.com/TatianaRudikova/cycles2)
 </details>
 <details>
 <summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</summary>
