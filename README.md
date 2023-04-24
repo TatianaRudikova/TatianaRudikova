@@ -17,7 +17,7 @@
 <details>
  <summary>1.1 Введение в Java: JDK, JRE, JVM, IntelliJ IDEA</summary>
 
-  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
+  [Задача №1](https://github.com/TatianaRudikova/java_intro)
 </details>
 <details>
   <summary>1.2 Программирование на Java: переменные, операторы, работа с отладчиком</summary>
