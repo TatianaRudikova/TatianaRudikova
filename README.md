@@ -61,7 +61,7 @@
 <details>
 <summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</summary>
     
- [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_5_ci1)
+ [Задача №1](https://github.com/TatianaRudikova/CICD)
 </details>
  
 ## Блок 3. ООП
