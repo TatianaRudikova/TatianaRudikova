@@ -54,7 +54,7 @@
 <details>
 <summary>2.4  Циклы, параметризованные тесты и аннотации</summary>
     
- [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params1)
+ [Задача №1](https://github.com/TatianaRudikova/cycles)
 
  [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params2)
 </details>
