@@ -20,7 +20,7 @@
   [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_1_intro)
 </details>
 <details>
-  <summary>1.2 Программирование на Java: переменные, операторы, работа с отладчиком.</summary>
+  <summary>1.2 Программирование на Java: переменные, операторы, работа с отладчиком</summary>
     
  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
 
@@ -31,14 +31,14 @@
 ## Блок 2. Основы Java, Автотесты и CI
 
 <details>
-  <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений.</summary>
+  <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений</summary>
     
  [Задача №1](https://github.com/TatianaRudikova/java_primitives_1)
 
  [Задача №2](https://github.com/TatianaRudikova/java_primitives_2)
 </details>
 <details>
-  <summary>2.2  Testability, автотесты, введение в ООП: объекты и методы.</summary>
+  <summary>2.2  Testability, автотесты, введение в ООП: объекты и методы</summary>
     
  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods1)
   
@@ -47,19 +47,19 @@
  [Задача №3](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods3)
 </details>
 <details>
-<summary>2.3  Система сборки Maven, управление зависимостями, автотесты на JUnit5.</summary>
+<summary>2.3  Система сборки Maven, управление зависимостями, автотесты на JUnit5</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_3_maven-junit1/tree/master)
 </details>
 <details>
-<summary>2.4  Циклы, параметризованные тесты и аннотации.</summary>
+<summary>2.4  Циклы, параметризованные тесты и аннотации</summary>
     
  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params1)
 
  [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params2)
 </details>
 <details>
-<summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs.</summary>
+<summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs</summary>
     
  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_5_ci1)
 </details>
@@ -67,12 +67,12 @@
 ## Блок 3. ООП
 
 <details>
-  <summary>3.1  Объектно-ориентированное программирование и проектирование.</summary>
+  <summary>3.1  Объектно-ориентированное программирование и проектирование</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/OOP1)
 </details>
  <details>
-  <summary>3.2  Объектно-ориентированное программирование: ключевые принципы.</summary>
+  <summary>3.2  Объектно-ориентированное программирование: ключевые принципы</summary>
     
   [Задача №1](https://github.com/TatianaRudikova/oopPrinciples)
 </details>
@@ -89,12 +89,12 @@
 ## Блок 1. Основы автоматизации, платформа JUnit
  
  <details>
-  <summary>1.1. Основы автоматизации, Unit-тесты.</summary>
+  <summary>1.1. Основы автоматизации, Unit-тесты</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-basics)
 </details>
  <details>
-  <summary>1.2. Тестирование API, Continuous Integration.</summary>
+  <summary>1.2. Тестирование API, Continuous Integration</summary>
     
   [Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
 
@@ -104,23 +104,26 @@
  ## Блок 2. Тестирование веб-интерфейсов
  
  <details>
-  <summary>2.1. Тестирование веб-интерфейсов, Selenium и Selenide.</summary>
+  <summary>2.1. Тестирование веб-интерфейсов, Selenium и Selenide</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-web)
 </details>
  <details>
-  <summary>2.2. Selenide.</summary>
+  <summary>2.2. Selenide</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-selenide)
 </details>
  <details>
-  <summary>2.3. Patterns.</summary>
+  <summary>2.3. Patterns</summary>
   
   [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-1)
   
   [Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-2)
 </details>
- 
+ <summary>2.4. BDD</summary>
+  
+  [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-pageObject)
+</details>
  
  </details>
  
