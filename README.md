@@ -82,6 +82,7 @@
 </summary>
 
 ## Блок 1. Основы автоматизации, платформа JUnit
+ 
  <details>
   <summary>1.1. Основы автоматизации, Unit-тесты.</summary>
     
@@ -93,11 +94,15 @@
 [Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
   <br>[Задача №3](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi-Postman)
 </details>
+ 
+ ## Блок 2. Тестирование веб-интерфейсов
+ 
  <details>
-  <summary>1.2. .</summary>
+  <summary>2.1. Тестирование веб-интерфейсов, Selenium и Selenide.</summary>
     
-[Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
+[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-selenide)
 </details>
+ 
  
  </details>
  
