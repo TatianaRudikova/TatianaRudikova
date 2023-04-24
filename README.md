@@ -22,8 +22,9 @@
 <details>
   <summary>1.2 Программирование на Java: переменные, операторы, работа с отладчиком.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
-<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
+ [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming1)
+
+ [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-1_2_programming2)
 
 </details>
 
@@ -32,15 +33,18 @@
 <details>
   <summary>2.1  Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/java_primitives_1)
-<br>[Задача №2](https://github.com/TatianaRudikova/java_primitives_2)
+ [Задача №1](https://github.com/TatianaRudikova/java_primitives_1)
+
+ [Задача №2](https://github.com/TatianaRudikova/java_primitives_2)
 </details>
 <details>
   <summary>2.2  Testability, автотесты, введение в ООП: объекты и методы.</summary>
     
-  [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods1)
-  <br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods2)
-  <br>[Задача №3](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods3)
+ [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods1)
+  
+ [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods2)
+  
+ [Задача №3](https://github.com/TatianaRudikova/javaqa-homeworks-2_2_methods3)
 </details>
 <details>
 <summary>2.3  Система сборки Maven, управление зависимостями, автотесты на JUnit5.</summary>
@@ -50,13 +54,14 @@
 <details>
 <summary>2.4  Циклы, параметризованные тесты и аннотации.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params1)
-<br>[Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params2)
+ [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params1)
+
+ [Задача №2](https://github.com/TatianaRudikova/javaqa-homeworks-2_4_params2)
 </details>
 <details>
 <summary>2.5  Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_5_ci1)
+ [Задача №1](https://github.com/TatianaRudikova/javaqa-homeworks-2_5_ci1)
 </details>
  
 ## Блок 3. ООП
@@ -69,7 +74,7 @@
  <details>
   <summary>3.2  Объектно-ориентированное программирование: ключевые принципы.</summary>
     
-[Задача №1](https://github.com/TatianaRudikova/oopPrinciples)
+  [Задача №1](https://github.com/TatianaRudikova/oopPrinciples)
 </details>
 
  
@@ -91,8 +96,9 @@
  <details>
   <summary>1.2. Тестирование API, Continuous Integration.</summary>
     
-[Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
-  <br>[Задача №3](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi-Postman)
+  [Задача №1, Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi)
+
+  [Задача №3](https://github.com/TatianaRudikova/BasicsOfAutomation-apiCi-Postman)
 </details>
  
  ## Блок 2. Тестирование веб-интерфейсов
@@ -106,6 +112,13 @@
   <summary>2.2. Selenide.</summary>
     
 [Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-selenide)
+</details>
+ <details>
+  <summary>2.3. Patterns.</summary>
+    
+[Задача №1](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-1)
+  
+[Задача №2](https://github.com/TatianaRudikova/BasicsOfAutomation-patterns-2)
 </details>
  
  
