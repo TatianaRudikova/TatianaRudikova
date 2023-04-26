@@ -40,6 +40,26 @@
 [Сертификат](https://netology.ru/sharing/d51957f04dcbdeaae10c89340478c408?utm_source=social&utm_campaign=achievements)
 </details>
 
+# Модуль: Git — система контроля версий
+
+<details>
+<summary>Пройденные темы</summary>
+    
+1. Знакомство с системой контроля версий Git
+    
+2. Работа с локальным репозиторием в Git
+    
+3. Работа с удаленным репозиторием через GitHub
+    
+4. Командная работа в Git и GitHub
+    
+</details>    
+<details>
+<summary>Сертификат</summary>
+    
+[Сертификат](https://netology.ru/sharing/2dd167db27a676f7be0dea5bdac2f279?utm_source=social&utm_campaign=achievements)
+</details>
+
 # Модуль: Java для тестировщиков
 
 ### Блок 1. Введение в Java
