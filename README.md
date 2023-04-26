@@ -101,7 +101,11 @@
     
   [Задача №1](https://github.com/TatianaRudikova/OOP1/tree/flexible)
 </details>
-
+<details>
+  <summary>3.4. Композиция и зависимость объектов. Mockito при создании автотестов</summary>
+    
+  [Задача №1](https://github.com/TatianaRudikova/FilmManager)
+</details>
 
 # Модуль: Автоматизация тестирования
 
